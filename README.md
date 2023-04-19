@@ -44,7 +44,7 @@ Launch event
     })
 ````
 
-## Pictures
+## Reference
 
 <img src="https://user-images.githubusercontent.com/80425451/233206478-5e670abf-c671-4906-8928-740289d3f670.png" alt="Reference image" style="max-width: 100%;">
 
