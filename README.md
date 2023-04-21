@@ -24,7 +24,7 @@ The solution was adding an ID to the accept button, call it from the click event
 - Javascript ECMAScript 6
 
 ## Use
-````
+```` js
   ModalMessage({
     title: String,
     body: String,
@@ -38,7 +38,7 @@ The solution was adding an ID to the accept button, call it from the click event
 
 Launch event
 
-````
+```` js
    let actions = document.getElementById("accept").addEventListener('click', () => {
     //Actions
     })
